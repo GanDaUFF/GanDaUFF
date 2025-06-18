@@ -8,7 +8,7 @@
   <a href="mailto:qwert12121@hotmail.com">
     <img src="https://img.shields.io/badge/email-contato-blue" />
   </a>
-  <a href="https://www.linkedin.com/in/henrique-cedraz/">
+  <a href="https://www.linkedin.com/in/henrique-cedraz-6590aa21b/">
     <img src="https://img.shields.io/badge/LinkedIn-HenriqueCedraz-blue?logo=linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1CalGqIT3pqBsz0bGYBozeRQZ98tIzYvd/view?usp=sharing">
@@ -80,7 +80,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções robustas e 
 
 ## 💬 Vamos conversar?
 
-Me chama no [LinkedIn](https://www.linkedin.com/in/henrique-cedraz/) ou abre uma issue aqui mesmo no GitHub!  
+Me chama no [LinkedIn](https://www.linkedin.com/in/henrique-cedraz-6590aa21b/) ou abre uma issue aqui mesmo no GitHub!  
 Gosto de discutir arquitetura limpa, front responsivo e soluções reais.
 
 ---
