@@ -71,7 +71,9 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções robustas e 
 
 ---
 
-## 📄 Currículo
+## 📄 Currículo / Portfolio
+
+💼 Portofolio -> https://henricolindo.netlify.app/
 
 📎 [Clique aqui para acessar meu currículo em PDF](https://drive.google.com/file/d/1CalGqIT3pqBsz0bGYBozeRQZ98tIzYvd/view?usp=sharing)  
 📬 Ou entre em contato: **qwert12121@hotmail.com**
